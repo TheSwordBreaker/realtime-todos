@@ -108,11 +108,13 @@ Power is  { power }
 	{/if} Todos
 </button>
 
-<h1> Welcome To { name }</h1>
+<h1> Welcome To { name } Tommarow Land is bies</h1>
 	{#if offline }
 	<Smart />
 	{:else}
 	<Login/>
 	{/if} 
+
+
 
 </main>
